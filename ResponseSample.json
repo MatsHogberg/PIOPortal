@@ -1,0 +1,840 @@
+[
+{
+Id: 1,
+Code: "700696",
+Name: "VCC OTA Systems and integration test",
+Customer: {
+Id: 1,
+Name: "Volvo Cars Corporation"
+},
+StartDate: "2014-08-01T00:00:00",
+EndDate: "2015-06-30T00:00:00",
+BusinessManager: {
+Id: 7,
+Name: "Jonas Möller"
+},
+ProjectManager: {
+Id: 1,
+Name: "Mikael Sjökvist"
+},
+Meetings: [
+{
+Id: 1,
+TypeId: 1,
+TypeName: "Project Kick-Off",
+StartTime: "2015-02-24T15:30:00",
+RoomId: 2,
+RoomName: "Farfars Bilar",
+Site: {
+Id: 2,
+Name: "Stockholm"
+}
+},
+{
+Id: 2,
+TypeId: 1,
+TypeName: "Project Kick-Off",
+StartTime: "2015-03-02T10:00:00",
+RoomId: 1,
+RoomName: "Kållerado",
+Site: {
+Id: 1,
+Name: "Göteborg"
+}
+}
+],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [
+{
+Id: 1,
+Year: 2015,
+Month: 1,
+Value: 100,
+Comment: "Avstämning på projektmöte med kunden enligt överenskommen tidplan."
+},
+{
+Id: 2,
+Year: 2015,
+Month: 2,
+Value: 0,
+Comment: null
+}
+],
+OnQuality: [
+{
+Id: 1,
+Year: 2015,
+Month: 1,
+Value: 100,
+Comment: null
+},
+{
+Id: 2,
+Year: 2015,
+Month: 2,
+Value: 0,
+Comment: null
+}
+]
+},
+{
+Id: 2,
+Code: "752747",
+Name: "SPIE/Nevis IE11 upgrade",
+Customer: {
+Id: 3,
+Name: "Höganäs"
+},
+StartDate: "2014-11-10T00:00:00",
+EndDate: "2015-04-30T00:00:00",
+BusinessManager: {
+Id: 8,
+Name: "Johan Kjellson"
+},
+ProjectManager: {
+Id: 5,
+Name: "Björn Lanneskog"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 3,
+Code: "752763",
+Name: "ITPL SPIE/Nevis and IE - Lanneskog",
+Customer: {
+Id: 3,
+Name: "Höganäs"
+},
+StartDate: null,
+EndDate: null,
+BusinessManager: {
+Id: 8,
+Name: "Johan Kjellson"
+},
+ProjectManager: {
+Id: 5,
+Name: "Björn Lanneskog"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 1,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 4,
+Code: "753053",
+Name: "Höganäs Eclino",
+Customer: {
+Id: 3,
+Name: "Höganäs"
+},
+StartDate: "2015-02-17T00:00:00",
+EndDate: "2015-03-31T00:00:00",
+BusinessManager: {
+Id: 9,
+Name: "Carl Wanngård"
+},
+ProjectManager: {
+Id: 1,
+Name: "Mikael Sjökvist"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 5,
+Code: "752722",
+Name: "Projektleden T&M",
+Customer: {
+Id: 1,
+Name: "Volvo Cars Corporation"
+},
+StartDate: "2014-10-20T00:00:00",
+EndDate: "2015-03-31T00:00:00",
+BusinessManager: {
+Id: 8,
+Name: "Johan Kjellson"
+},
+ProjectManager: {
+Id: 8,
+Name: "Johan Kjellson"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 6,
+Code: "752794",
+Name: "A2M2 Socialstyrelsen SharePoint-support",
+Customer: {
+Id: 5,
+Name: "Socialstyrelsen"
+},
+StartDate: "2014-12-01T00:00:00",
+EndDate: "2015-11-30T00:00:00",
+BusinessManager: {
+Id: 22,
+Name: "Erik Tägtström"
+},
+ProjectManager: {
+Id: 10,
+Name: "Sture Ågren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 7,
+Code: "700735",
+Name: "COOP - Bosch Resident Engineer at CEVT Sweden",
+Customer: {
+Id: 6,
+Name: "Bosch"
+},
+StartDate: "2014-11-01T00:00:00",
+EndDate: "2015-12-31T00:00:00",
+BusinessManager: {
+Id: 9,
+Name: "Carl Wanngård"
+},
+ProjectManager: {
+Id: 9,
+Name: "Carl Wanngård"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 8,
+Code: "752778",
+Name: "Support to DC",
+Customer: {
+Id: 2,
+Name: "Volvo AB"
+},
+StartDate: "2014-10-15T00:00:00",
+EndDate: "2015-02-06T00:00:00",
+BusinessManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+ProjectManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 9,
+Code: "752646",
+Name: "ADW - Intranät SP2013",
+Customer: {
+Id: 7,
+Name: "Resurs Holding"
+},
+StartDate: "2014-11-17T00:00:00",
+EndDate: "2015-04-01T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 17,
+Name: "Mikael Essle"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 10,
+Code: "700655",
+Name: "Daniel Tidholm",
+Customer: {
+Id: 15,
+Name: "Volvo Personvagnar AB"
+},
+StartDate: "2014-03-31T00:00:00",
+EndDate: "2015-04-30T00:00:00",
+BusinessManager: {
+Id: 9,
+Name: "Carl Wanngård"
+},
+ProjectManager: {
+Id: 9,
+Name: "Carl Wanngård"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 11,
+Code: "700698",
+Name: "VCC, SPA infotainment Expedition",
+Customer: {
+Id: 15,
+Name: "Volvo Personvagnar AB"
+},
+StartDate: null,
+EndDate: null,
+BusinessManager: {
+Id: 7,
+Name: "Jonas Möller"
+},
+ProjectManager: {
+Id: 21,
+Name: "Roberto Montes"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 12,
+Code: "752642",
+Name: "SLA A2M2",
+Customer: {
+Id: 16,
+Name: "Energimarknadsinspektionen"
+},
+StartDate: "2014-04-01T00:00:00",
+EndDate: "2017-05-07T00:00:00",
+BusinessManager: {
+Id: 23,
+Name: "Joachim Östh"
+},
+ProjectManager: {
+Id: 10,
+Name: "Sture Ågren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 13,
+Code: "752512",
+Name: "ADW - Intranät",
+Customer: {
+Id: 8,
+Name: "Alingsås Energi AB"
+},
+StartDate: "2014-04-01T00:00:00",
+EndDate: "2015-02-27T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 17,
+Name: "Mikael Essle"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 14,
+Code: "752564",
+Name: "A2M2 - Support",
+Customer: {
+Id: 17,
+Name: "B&B Tools Business Infrastructure AB"
+},
+StartDate: "2013-11-12T00:00:00",
+EndDate: null,
+BusinessManager: {
+Id: 17,
+Name: "Mikael Essle"
+},
+ProjectManager: {
+Id: 10,
+Name: "Sture Ågren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 15,
+Code: "752687",
+Name: "PM QA",
+Customer: {
+Id: 4,
+Name: "Volvo Information Technology"
+},
+StartDate: null,
+EndDate: null,
+BusinessManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+ProjectManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 16,
+Code: "752428",
+Name: "Agil utv. WS",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: null,
+EndDate: null,
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 17,
+Name: "Mikael Essle"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 17,
+Code: "752480",
+Name: "EBH - Vidareutveckling",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2014-08-01T00:00:00",
+EndDate: "2015-02-13T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 10,
+Name: "Sture Ågren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 18,
+Code: "752408",
+Name: "Techtool Regression Test",
+Customer: {
+Id: 19,
+Name: "Volvo Parts AB:s Personalstift"
+},
+StartDate: "2014-01-01T00:00:00",
+EndDate: "2014-12-31T00:00:00",
+BusinessManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+ProjectManager: {
+Id: 6,
+Name: "Patrik Elverlind"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 19,
+Code: "752427",
+Name: "IT-stöd för deponering",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2014-01-01T00:00:00",
+EndDate: "2014-07-31T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 20,
+Code: "752662",
+Name: "SPIE/Nevis MA aug-2014--",
+Customer: {
+Id: 4,
+Name: "Volvo Information Technology"
+},
+StartDate: "2014-08-01T00:00:00",
+EndDate: "2017-07-31T00:00:00",
+BusinessManager: {
+Id: 8,
+Name: "Johan Kjellson"
+},
+ProjectManager: {
+Id: 15,
+Name: "Tomas Ekengren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 21,
+Code: "752569",
+Name: "Externwebb",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2014-08-01T00:00:00",
+EndDate: "2015-06-01T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 17,
+Name: "Mikael Essle"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 22,
+Code: "752432",
+Name: "Darwin Funktionsåtagande, 2014",
+Customer: {
+Id: 9,
+Name: "Vattenfall AB"
+},
+StartDate: "2015-02-01T00:00:00",
+EndDate: null,
+BusinessManager: {
+Id: 11,
+Name: "Peter Forsmark"
+},
+ProjectManager: {
+Id: 16,
+Name: "Niklas Norlander"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 4,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 23,
+Code: "752641",
+Name: "SLA A2M2",
+Customer: {
+Id: 20,
+Name: "Swedish Match North Europe AB"
+},
+StartDate: "2014-06-09T00:00:00",
+EndDate: null,
+BusinessManager: {
+Id: 23,
+Name: "Joachim Östh"
+},
+ProjectManager: {
+Id: 10,
+Name: "Sture Ågren"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 24,
+Code: "752426",
+Name: "3:e linjens support",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2014-01-01T00:00:00",
+EndDate: "2015-03-31T00:00:00",
+BusinessManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+ProjectManager: {
+Id: 13,
+Name: "Per Ljungberg"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 2,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 25,
+Code: "700681",
+Name: "Henrik Elofsson",
+Customer: {
+Id: 15,
+Name: "Volvo Personvagnar AB"
+},
+StartDate: null,
+EndDate: null,
+BusinessManager: {
+Id: 7,
+Name: "Jonas Möller"
+},
+ProjectManager: {
+Id: 7,
+Name: "Jonas Möller"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 27,
+Code: "6665666",
+Name: "TestProjekt",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2015-03-05T00:00:00",
+EndDate: "2020-12-31T00:00:00",
+BusinessManager: {
+Id: 3,
+Name: "Fredrik Haase"
+},
+ProjectManager: {
+Id: 4,
+Name: "Maria Eidland"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 1,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 28,
+Code: "6665666",
+Name: "TestProjekt",
+Customer: {
+Id: 18,
+Name: "Länsstyrelsen i Västra Götalands län"
+},
+StartDate: "2015-03-05T00:00:00",
+EndDate: "2020-12-31T00:00:00",
+BusinessManager: {
+Id: 3,
+Name: "Fredrik Haase"
+},
+ProjectManager: {
+Id: 4,
+Name: "Maria Eidland"
+},
+Meetings: [ ],
+Site: {
+Id: 1,
+Name: "Göteborg"
+},
+AdminLevel: 1,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 33,
+Code: "999999",
+Name: "Nytt projekt",
+Customer: {
+Id: 1,
+Name: "Volvo Cars Corporation"
+},
+StartDate: "2014-01-01T00:00:00",
+EndDate: "2016-01-01T00:00:00",
+BusinessManager: {
+Id: 1,
+Name: "Mikael Sjökvist"
+},
+ProjectManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+Meetings: [ ],
+Site: {
+Id: 5,
+Name: "Karlstad"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+},
+{
+Id: 34,
+Code: "111111",
+Name: "Uppdaterat projekt",
+Customer: {
+Id: 1,
+Name: "Volvo Cars Corporation"
+},
+StartDate: "2014-01-01T00:00:00",
+EndDate: "2016-01-01T00:00:00",
+BusinessManager: {
+Id: 1,
+Name: "Mikael Sjökvist"
+},
+ProjectManager: {
+Id: 2,
+Name: "Peter Kovacs"
+},
+Meetings: [ ],
+Site: {
+Id: 5,
+Name: "Karlstad"
+},
+AdminLevel: 3,
+OnTime: [ ],
+OnQuality: [ ]
+}
+]
